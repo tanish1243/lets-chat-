@@ -1,15 +1,15 @@
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBbk657CPROe7uq6MhqUnF4nmwHJKu92pE",
-    authDomain: "letschat2-9cae5.firebaseapp.com",
-    databaseURL: "https://letschat2-9cae5-default-rtdb.firebaseio.com",
-    projectId: "letschat2-9cae5",
-    storageBucket: "letschat2-9cae5.appspot.com",
-    messagingSenderId: "86285751519",
-    appId: "1:86285751519:web:af5acaa9013593263f056a"
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
+  apiKey: "AIzaSyDdlmMZlAroRkY7OwHRG32TePzJr9N46Ho",
+  authDomain: "letuschat-7dd67.firebaseapp.com",
+  databaseURL: "https://letuschat-7dd67-default-rtdb.firebaseio.com",
+  projectId: "letuschat-7dd67",
+  storageBucket: "letuschat-7dd67.appspot.com",
+  messagingSenderId: "260623423047",
+  appId: "1:260623423047:web:1559e49e8d51d5b7d54362"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
 
   
 
